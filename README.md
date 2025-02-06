@@ -50,7 +50,7 @@
   <a href="https://github.com/Neme1901/github-readme-stats"><img alt="Neme1901's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neme1901&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+</details><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
