@@ -1,13 +1,10 @@
-<h1 align="center">Hi , I'm Daniel Barrios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
+<h1 align="center">Hi, I'm Daniel Barrios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
 
-🧠 I’m currently studying **DAM** in **IES Clara del Rey** <br>
-💻 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/300px-42_Logo.svg.png" width="20"> **Madrid** Student since September 2024 <br>
-🎯 I’m aiming to develop and contribute on original and interesting projects 👀 <br>
+🧠 I’m currently studying **DAW** in **IES Clara del Rey** <br><br>
+💻 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/300px-42_Logo.svg.png" width="20"> **Madrid** Student since September 2024 <br><br>
+🎯 I’m aiming to develop and contribute on original and interesting projects 👀 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h1>
 
 - **Languages**:
     
@@ -37,10 +34,9 @@
 
  - **Contact**:  
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:d.barriosvaz@gmail.com)
-[Snake animation](https://raw.githubusercontent.com/jorge-lopz/jorge-lopz/output/github-contribution-grid-snake-dark.svg)
 
-<br>
-   ## 📈 Github Stats
+
+<br><h1 align="center"> ## 📈 Github Stats </h1>
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
