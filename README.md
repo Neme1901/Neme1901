@@ -36,7 +36,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:d.barriosvaz@gmail.com)
 
 
-<br><h1 align="center"> ## 📈 Github Stats </h1>
+<br><h1 align="center"> 📈 Github Stats </h1>
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
